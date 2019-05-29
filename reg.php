@@ -15,7 +15,7 @@
 					echo "<script>alert('注册失败!');location.href='reg.php'</script>";
 				}
 			}else{
-				echo "<script>alert('用户名只能为英文!');location.href='reg.php'</script>";
+				echo "<script>alert('你好i!');location.href='reg.php'</script>";
 			}
 			
 		}
